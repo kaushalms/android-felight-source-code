@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bloodred">#660000</color>
+    <color name="concordgrape">#660198</color>
+    <color name="organictea">#AC7F24</color>
+    <color name="cranberry">#B6316C</color>
+    <color name="dark_blue">#3b5998</color>
+    <color name="some_color">#0f0</color>
+    <color name="white">#fff</color>
+    <color name="orange">#ff3300</color>
+    <color name="windows_background">#8B9CD3</color>
+</resources>

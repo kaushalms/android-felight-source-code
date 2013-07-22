@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, StyleAndThemeExampleActivity!</string>
+    <string name="app_name">StyleAndThemeExample</string>
+    <string name="btn_show">Show</string>
+    <string name="btn_Change">Change</string>
+    <string name="username">[Enter your username]</string>
+    <string name="btn_click">Click</string>
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="SpecialText">
+       <!-- <item name="android:textSize">@dimen/textSize</item> --> 
+        <item name="android:textColor">@color/some_color</item>
+    </style>
+
+    <style name="blueButton">
+         <!-- <item name="android:textSize">@dimen/textSize</item> --> 
+        <item name="android:background">@color/dark_blue</item>
+        <item name="android:padding">@dimen/btn_pad_size</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="orangeButton">
+         <!-- <item name="android:textSize">@dimen/textSize</item> --> 
+        <item name="android:background">@color/orange</item>
+        <item name="android:padding">@dimen/btn_pad_size</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>

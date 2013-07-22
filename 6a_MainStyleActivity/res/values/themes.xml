@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CustomTheme" parent="android:Theme">
+       <item name="android:background">@color/organictea</item> 
+       <item name="android:windowTitleSize">@dimen/window_title_size</item>
+       <item name="android:textSize">@dimen/textSize</item>
+    </style>
+
+</resources>

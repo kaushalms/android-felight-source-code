@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Long press on me!</string>
+    <string name="app_name">ContextMenuExampleApp</string>
+    <string name="toast_msg">Toast Message</string>
+
+</resources>

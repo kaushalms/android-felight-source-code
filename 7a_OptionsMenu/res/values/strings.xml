@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   
+    <string name="hello">Hello Felight, MenuExampleActivity!</string>
+    <string name="app_name">Android Menu Example</string>
+    <string name="exitOption">Exit</string>
+    <string name="aboutOption">About</string>
+
+</resources>

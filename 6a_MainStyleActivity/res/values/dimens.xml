@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSize">20sp</dimen>
+    <dimen name="window_title_size">25sp</dimen>
+    <dimen name="btn_pad_size">10sp</dimen>
+</resources>

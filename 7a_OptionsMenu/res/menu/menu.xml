@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/about"
+        android:title="@string/aboutOption">
+    </item>
+    <item
+        android:id="@+id/Options"
+        android:title="Options. . .">
+
+        <!-- Sub menu -->
+        <menu>
+            <item
+                android:id="@+id/themes"
+                android:title="Themes"/>
+            <item
+                android:id="@+id/settings"
+                android:title="Settings"/>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/exit"
+        android:orderInCategory="4"
+        android:title="@string/exitOption">
+    </item>
+    <item
+        android:id="@+id/restart"
+        android:title="Restart">
+    </item>
+
+</menu>

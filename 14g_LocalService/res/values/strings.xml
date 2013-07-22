@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Local Service</string>
+    <string name="start">Start Local Service</string>
+    <string name="stop">Stop Local Service</string>
+</resources>

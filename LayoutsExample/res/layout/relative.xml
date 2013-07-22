@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TextView
+        android:id="@+id/lblComments"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="Comments" />
+
+    <EditText
+        android:id="@+id/txtComments"
+        android:layout_width="fill_parent"
+        android:layout_height="170px"
+        android:layout_alignLeft="@+id/lblComments"
+        android:layout_below="@+id/lblComments"
+        android:layout_centerHorizontal="true"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btnSave"
+        android:layout_width="125px"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/txtComments"
+        android:layout_below="@+id/txtComments"
+        android:text="Save" />
+
+    <Button
+        android:id="@+id/btnCancel"
+        android:layout_width="124px"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txtComments"
+        android:layout_below="@+id/txtComments"
+        android:text="Cancel" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/btnCancel"
+        android:layout_marginLeft="48dp"
+        android:layout_marginTop="79dp"
+        android:text="Button" />
+
+</RelativeLayout>

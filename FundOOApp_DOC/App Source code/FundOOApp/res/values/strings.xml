@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FundOOApp</string>
+    <string name="hello_world">FundOO..!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="fetching_data">Getting data from the server, please wait</string>
+
+</resources>
